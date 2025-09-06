@@ -42,17 +42,15 @@ Statistical Analysis: scipy.stats (chi2_contingency)
 Visualization: matplotlib.pyplot, seaborn
 ⚙️ Setup and Installation
 - Clone the Repository:
-code
-Bash
+
 git clone https://github.com/your-username/science-memes-analysis.git
 cd science-memes-analysis
 - Create a Virtual Environment (Recommended):
-code
-Bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+`python -m venv venv`
+`source venv/bin/activate` On Windows, use `venv\Scripts\activate`
 - Install Dependencies:
-`pip install -q google-generativeai Pillow pandas tqdm google-search-results` `requests torch torchvision scikit-learn scipy matplotlib seaborn`
+`pip install -q google-generativeai Pillow pandas tqdm google-search-results requests torch torchvision scikit-learn scipy matplotlib seaborn`
 
 ### Set Up API Keys:
 This project requires API keys for:
@@ -90,6 +88,4 @@ Contributions are welcome! If you have suggestions for improvements, new analysi
 
 Authors:
 
-Ashley Andrea Squarcio 
-Pietro Saveri 
-Matteo Salami 
+<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/ashley-andrea"> <img src="https://github.com/ashley-andrea.png" width="100px;" alt="Ashley Andrea Squarcio"/><br /> <sub><b>ashley-andrea</b></sub> </a> </td> <td align="center"> <a href="https://github.com/PietroSaveri"> <img src="https://github.com/PietroSaveri.png" width="100px;" alt="Pietro Saveri"/><br /> <sub><b>pietrosaveri</b></sub> </a> </td> </tr> <td align="center"> <a href="https://github.com/M4tteoo"> <img src="https://github.com/M4tteoo.png" width="100px;" alt="Matteo Salami"/><br /> <sub><b>Matteo Salami</b></sub> </a> </td> </tr> </table> </div>
